@@ -29,7 +29,7 @@ Dataset Used:
 -EfficientNet <br>
 -AlexNet
 
-#Evaluation Metrics
+# Evaluation Metrics
 
 -Accuracy<br>
 -Precision<br>
@@ -61,7 +61,7 @@ Dataset Used:
 -Implementing real-time disease detection<br>
 -Deploying the model as a web application or mobile app<br>
 
-#Contributors
+# Contributors
 -Aashish Pandey<br>
 -Oman Neupane<br>
 -Ishan Bista<br>
