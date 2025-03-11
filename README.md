@@ -1,42 +1,42 @@
 # Comparative-Analysis-of-Deep-Learning-Models-for-Plant-Leaf-Disease-Classification
 #  Project Title & Description
-#Title : Comparative Analysis of Deep Learning Models for Plant Leaf Disease Classification using AI and ML
+#Title : Comparative Analysis of Deep Learning Models for Plant Leaf Disease Classification using AI and ML <br>
 Description:<br>
 This project evaluates the performance of various deep learning models (ResNet, CNN, DenseNet, VGG16, VGG19) for plant leaf disease classification. The goal is to compare accuracy, training time, and other evaluation metrics to determine the most effective model for plant disease detection.
 
 # Dataset Details
 Dataset Used:
--Total Images: 80,327 (Train), 24,364 (Validation), 350 (Test)
--Number of Classes: 61 (Diseased & Healthy Leaves of 14 Plant Types)
+-Total Images: 80,327 (Train), 24,364 (Validation), 350 (Test) <br>
+-Number of Classes: 61 (Diseased & Healthy Leaves of 14 Plant Types)<br>
 -Data Preprocessing: Image resizing (128×128), normalization, data augmentation
 
 # Technology Used
--Python
--Jupyter Lab
--Jupyter Notebook
--Anaconda
--Numpy
--Pytorch
--CUDA
+-Python<br>
+-Jupyter Lab<br>
+-Jupyter Notebook<br>
+-Anaconda<br>
+-Numpy<br>
+-Pytorch<br>
+-CUDA<br>
 -Streamlit
 
 # Models used
--ResNet50
--VGG16
--VGG19
--DenseNet
--CNN 
--EfficientNet 
+-ResNet50<br>
+-VGG16<br>
+-VGG19<br>
+-DenseNet<br>
+-CNN <br>
+-EfficientNet <br>
 -AlexNet
 
 #Evaluation Metrics
 
--Accuracy
--Precision
--Recall
--F1 Score
--Confusion Matrix
--ROC Curve
+-Accuracy<br>
+-Precision<br>
+-Recall<br>
+-F1 Score<br>
+-Confusion Matrix<br>
+-ROC Curve<br>
 -Training Time per Epoch
 
 # Screenshots
@@ -57,13 +57,13 @@ Dataset Used:
 ![Image](https://github.com/user-attachments/assets/a09d33d4-125a-4f67-ae4d-688837ac051c)
 
 # Future Work & Improvements
--Optimizing model performance
--Implementing real-time disease detection
--Deploying the model as a web application or mobile app
+-Optimizing model performance<br>
+-Implementing real-time disease detection<br>
+-Deploying the model as a web application or mobile app<br>
 
 #Contributors
--Aashish Pandey
--Oman Neupane
--Ishan Bista
--Rakesh Kumar chaudhary
+-Aashish Pandey<br>
+-Oman Neupane<br>
+-Ishan Bista<br>
+-Rakesh Kumar chaudhary<br>
 -Nijjal Kachhapati
